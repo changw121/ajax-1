@@ -1,0 +1,10 @@
+9
+42F:\Learn\learn_Vue\frankfang\ajax_1\public133098616192202647 1
+47F:\Learn\learn_Vue\frankfang\ajax_1\public\2.js133098400045444022 0
+45F:\Learn\learn_Vue\frankfang\ajax_1\server.js133098611179999791 0
+50F:\Learn\learn_Vue\frankfang\ajax_1\public\main.js133098613740876898 0
+49F:\Learn\learn_Vue\frankfang\ajax_1\public\3.html133098407870359669 0
+49F:\Learn\learn_Vue\frankfang\ajax_1\public\5.json133098610461598156 0
+48F:\Learn\learn_Vue\frankfang\ajax_1\public\4.xml133098433142802758 0
+53F:\Learn\learn_Vue\frankfang\ajax_1\public\index.html133098612177293448 0
+52F:\Learn\learn_Vue\frankfang\ajax_1\public\style.css133098379936478103 0

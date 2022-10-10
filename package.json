@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node server.js 8888"
+  },
+  "name": "ajax_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
